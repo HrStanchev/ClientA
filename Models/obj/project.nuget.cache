@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2/oFQdL3HLaPm3IiJpHxs/kx2nsxpxoylmczxnfgRbvJlpc1cudF/J+ZS8buc/rlQnKMLNEHIf5tfuXoFazR9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stanchev\\Desktop\\uni\\C#\\- Async\\- kursov proekt\\ClientA\\Models\\ClientA.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stanchev\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\Stanchev\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\Stanchev\\.nuget\\packages\\messagepack\\2.3.85\\messagepack.2.3.85.nupkg.sha512",
+    "C:\\Users\\Stanchev\\.nuget\\packages\\messagepack.annotations\\2.3.85\\messagepack.annotations.2.3.85.nupkg.sha512",
+    "C:\\Users\\Stanchev\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Stanchev\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

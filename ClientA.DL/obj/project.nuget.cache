@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "O4+ND0EqlbK0h7VPQ0luppIzoHaFMKPiVTVrrF5vXwqPHMecevp/iqaz7axODlQIlEPSXrX+Pdu4cyoA0Yfhjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stanchev\\Desktop\\uni\\C#\\- Async\\- kursov proekt\\ClientA\\ClientA.DL\\ClientA.DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stanchev\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\Stanchev\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\Stanchev\\.nuget\\packages\\messagepack\\2.3.85\\messagepack.2.3.85.nupkg.sha512",
+    "C:\\Users\\Stanchev\\.nuget\\packages\\messagepack.annotations\\2.3.85\\messagepack.annotations.2.3.85.nupkg.sha512",
+    "C:\\Users\\Stanchev\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Stanchev\\.nuget\\packages\\rabbitmq.client\\6.3.0\\rabbitmq.client.6.3.0.nupkg.sha512",
+    "C:\\Users\\Stanchev\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Stanchev\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
